@@ -12,7 +12,7 @@ This repository contains SQL scripts and queries for managing a simple education
 
 ## Introduction
 
-This project demonstrates the creation and manipulation of a relational database designed to manage data for an educational institution. It includes various SQL scripts to create tables, insert data, and execute complex queries.
+This project demonstrates the creation and manipulation of a relational database designed to manage data for an educational institution. It includes various SQL scripts to create tables, insert data, and execute complex queries along with comments in each query detailing how it may be used in a real world scenario.
 
 ## Installation
 
