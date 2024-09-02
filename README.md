@@ -146,4 +146,3 @@ The database consists of the following tables:
 
 5. **Run Queries and Procedures**:
    - Use the SQL files in the various folders (`BasicQueries`, `JoinQueries`, etc.) to run different SQL operations and learn SQL concepts.
-+++
