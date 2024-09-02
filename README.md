@@ -49,9 +49,10 @@ The repository is organized into several directories, each containing SQL script
 - **BasicQueries**: Basic SQL queries for selecting and manipulating data.
 - **StoredProcedures**: SQL scripts for stored procedures used in the database.
 - **Subqueries**: Scripts that demonstrate the use of subqueries.
-- **Insertions**: Contains scripts to insert data into the tables.
+- **Insertions**: Contains scripts with random info to insert data into the tables.
 - **JoinQueries**: SQL scripts for join operations between different tables.
 - **Table_Creation**: SQL scripts to create database tables.
+- **SQL queries and outputs.pdf**: contains the queries listed in the folders and thier output
 
 ## Database Schema
 
